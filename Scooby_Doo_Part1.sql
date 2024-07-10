@@ -20,8 +20,6 @@ SELECT * FROM scoobydoo;
 -- In case we make a mistake we have the untouched database 
 CREATE TABLE scoobydoo_staging
 LIKE scoobydoo;
--- "dup" at the end just indiccates that this table still contains duplicates, I will create a sightings_staging table that does
--- not have duplicates in step 2
 
 INSERT scoobydoo_staging
 SELECT * FROM scoobydoo; 
