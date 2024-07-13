@@ -8,8 +8,8 @@ Analyzing Scooby Doo TV episode analytics. Interactive Tableau dashboard can be 
 Thanks to a CD I got from a cereal box, I watched the TV show "Scooby Doo Where Are You?" on repeat for years. And it is still one of my comfort shows to this day. I was excited to combine nostalgia with my love of data analysis for this project. I have created a dynamic dashboard that allows users to analyze episode popularity and IMDB scores. Users can explore insights into different networks, series titles, monsters, settings, time frames, and guest stars using filters.
 
 ## Task List
-1. General data cleaning in SQL
-2. Create an interactive dashboard
+1. General data cleaning in SQL ([Scooby_Doo_Part1.sql](https://github.com/johannaschmidle/Scooby-Doo-Tv-Project/blob/main/Scooby_Doo_Part1.sql))
+2. Create an interactive dashboard ([Dashboard](https://public.tableau.com/app/profile/johanna.schmidle/viz/ScoobyDooPart2_17189953629250/Dashboard1))
 
 ## Questions You Can Explore Using Dashboard
 - Which guest stars do the audience enjoy seeing the most?
